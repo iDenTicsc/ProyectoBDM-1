@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProyectoBDM
 {
-    public partial class ValidacionPersona : Form
+    public partial class Form1 : Form
     {
-        public ValidacionPersona()
+        public Form1()
         {
             InitializeComponent();
         }
